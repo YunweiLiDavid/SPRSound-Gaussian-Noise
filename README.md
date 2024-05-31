@@ -21,8 +21,8 @@ The organization of the dataset is listed as follows:
 
 │   └── tt/
 
-│       ├── mix/
+│   │   ├── mix/
 
-│       ├── s1/
+│   │   ├── s1/
 
-│       └── s2
+│   │   └── s2
